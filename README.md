@@ -6,8 +6,10 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Instructions 
 
-- add the 
-- structure these links into **navigation** by using the `<nav>` and `<menu>` elements
+- note the `images` sub-folder
+- add the `images/zoo-logo.jpg` logo image to the top of each `html` page.  
+- setup this logo image to link (`<a>`) to the `index.html` page; structure that image and link as `<header>`
+- add the `images/downtown-ithaca.jpg` image to the `About the Zoo` section of the `index.html` page
 
 ## Coding Resources
 
